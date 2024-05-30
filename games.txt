@@ -1,0 +1,8 @@
+0.0.0.0 jezevec10.com
+0.0.0.0 jstris.jezevec10.com
+0.0.0.0 play2048.co
+0.0.0.0 poki.com
+0.0.0.0 tetr.io
+0.0.0.0 coolmathsgames.com
+0.0.0.0 jezevec10.com
+0.0.0.0 crazygames.com
