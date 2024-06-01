@@ -7,8 +7,8 @@
 0.0.0.0 jezevec10.com
 0.0.0.0 crazygames.com
 0.0.0.0 1v1.lol
-0.0.0.0 sites.google.com/site/unblockedgame76
-0.0.0.0 sites.google.com/site/classroom6x
+0.0.0.0 sites.google.com/site/unblockedgame76/
+0.0.0.0 sites.google.com/site/classroom6x/
 0.0.0.0 agar.io
 0.0.0.0 diep.io
 0.0.0.0 snake.io
