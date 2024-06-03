@@ -11,3 +11,11 @@
 0.0.0.0 agar.io
 0.0.0.0 diep.io
 0.0.0.0 snake.io
+0.0.0.0 hczhcz.github.io
+0.0.0.0 mathplayground.com
+0.0.0.0 0x0800.github.io
+0.0.0.0 2048.org
+0.0.0.0 2048game.com
+0.0.0.0 gamesforthebrain.com
+0.0.0.0 elgoog.im
+0.0.0.0 arkadium.com
