@@ -19,3 +19,15 @@
 0.0.0.0 gamesforthebrain.com
 0.0.0.0 elgoog.im
 0.0.0.0 arkadium.com
+0.0.0.0 tetris.com
+0.0.0.0 freetetris.org
+0.0.0.0 lumpty.com
+0.0.0.0 fafgames.github.io
+0.0.0.0 unblocked-games.s3.amazonaws.com
+0.0.0.0 hoodamath.com
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
